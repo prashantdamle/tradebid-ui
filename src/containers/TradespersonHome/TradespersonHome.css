@@ -1,0 +1,13 @@
+.TradespersonHome {
+  width: 500px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+}
+
+.TradespersonHome .btn-outline-secondary {
+  width: 200px;
+  padding: 20px 50px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}

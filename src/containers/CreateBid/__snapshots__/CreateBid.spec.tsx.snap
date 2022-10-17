@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="CreateBid"
+  >
+    <a
+      href="/tradesperson-dashboard"
+    >
+      Back to Dashboard
+    </a>
+    <br />
+    <br />
+    <h2>
+      Create a bid for project 'pname'
+    </h2>
+    <small>
+      (all fields mandatory)
+    </small>
+    <br />
+    <form
+      class=""
+    >
+      <div
+        class="mb-3 form-floating"
+      >
+        <select
+          class="form-select"
+          id="bidType"
+          name="select"
+        >
+          <option>
+            HOURLY
+          </option>
+          <option>
+            FIXED
+          </option>
+        </select>
+        <label
+          class="form-label"
+          for="bidType"
+        >
+          Select
+        </label>
+      </div>
+       
+      <div
+        class="mb-3 form-floating"
+      >
+        <input
+          class="form-control"
+          id="price"
+          name="price"
+          placeholder="Price"
+          type="tel"
+          value=""
+        />
+        <label
+          class="form-label"
+          for="price"
+        >
+          Price
+        </label>
+      </div>
+       
+      <br />
+      <button
+        class="btn btn-secondary"
+        type="submit"
+      >
+        <span>
+          Submit
+           
+        </span>
+      </button>
+    </form>
+  </div>
+</div>
+`;

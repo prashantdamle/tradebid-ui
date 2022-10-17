@@ -1,0 +1,11 @@
+.TradespersonDashboard {
+  padding: 40px;
+}
+
+.TradespersonDashboard .nav-item {
+  cursor: pointer;
+}
+
+.TradespersonDashboard .tab-content {
+  padding: 40px 0;
+}

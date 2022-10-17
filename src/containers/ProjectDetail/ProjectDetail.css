@@ -1,0 +1,7 @@
+.ProjectDetail {
+  padding: 40px;
+}
+
+.ProjectDetail span.detail-header {
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.CreateBid {
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.CreateBid h2 {
+  margin-bottom: 0;
+}
+
+.CreateBid small {
+  display: block;
+}

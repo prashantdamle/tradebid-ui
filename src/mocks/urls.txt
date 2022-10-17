@@ -1,0 +1,21 @@
+http://192.168.86.22:8080/api/v1/user/prashantdamle - get user by user name
+http://192.168.86.22:8080/api/v1/user/efbbbf61-3333-6564-3135-342d34383865/projects -- projects
+http://192.168.86.22:8080/api/v1/user/efbbbf61-3333-6564-3135-342d34383865/project/83ebe2d4-2dd1-4913-84de-bd9ddd82a149  - get project by proj id
+POST - http://192.168.86.22:8080/api/v1/user/efbbbf61-3333-6564-3135-342d34383865/project - create proj
+{
+    "projectType": "OTHER",
+    "name": "Clean house",
+    "description": "Vacuum and mop and single storey house",
+    "expectedHours": "2",
+    "expiryDateTime": "2022-10-13T03:30:00Z"
+}
+
+//pending
+jobs
+bids
+
+//when project. jobs, bids length is 0
+
+johndoe
+
+http://192.168.86.22:8080/api/v1/user/cff45737-704f-4fa9-81a1-902d5ea05007/customer-project/a414c2ee-1e12-41ac-830e-5ec94a538314/bid

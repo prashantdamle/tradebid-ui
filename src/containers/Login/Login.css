@@ -1,0 +1,15 @@
+.Login {
+  padding: 80px;
+}
+
+.Login form {
+  width: 200px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.Login input,
+.Login button,
+.Login small {
+  margin-top: 20px;
+}

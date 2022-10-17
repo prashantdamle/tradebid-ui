@@ -1,0 +1,11 @@
+.CustomerDashboard {
+  padding: 40px;
+}
+
+.CustomerDashboard .nav-item {
+  cursor: pointer;
+}
+
+.CustomerDashboard .tab-content {
+  padding: 40px 0;
+}

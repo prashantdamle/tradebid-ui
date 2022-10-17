@@ -1,0 +1,12 @@
+.CreateProject {
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.CreateProject h2 {
+  margin-bottom: 0;
+}
+
+.CreateProject small {
+  display: block;
+}
